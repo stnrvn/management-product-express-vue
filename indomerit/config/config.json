@@ -2,7 +2,7 @@
   "development": {
     "username": "postgres",
     "password": "postgres",
-    "database": "p1_live_code_week_4",
+    "database": "product",
     "host": "localhost",
     "dialect": "postgres"
   },
